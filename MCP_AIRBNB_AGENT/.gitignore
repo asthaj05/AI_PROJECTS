@@ -1,0 +1,8 @@
+venv/
+.env
+.history/
+__pycache__/
+.streamlit/
+# Ignore nested MCP folder
+MCP_AIRBNB_AGENT/
+.github/
